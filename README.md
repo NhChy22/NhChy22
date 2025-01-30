@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nafisa Chaudhary</h1>
-<h3 align="center">A Passionate Software Developer</h3>
+<h1 align="center">Hi 👋</h1>
+<!-- <h3 align="center">A Passionate Software Developer</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhchy22&label=Profile%20views&color=0e75b6&style=flat" alt="nhchy22" /> </p>
-
-- 🔭 I’m currently working on [UnitingCare Health Web Application](https://uniting-care-health.onrender.com)
 
 <p align="left">
 </p>
